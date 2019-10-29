@@ -1,4 +1,4 @@
-    .base {
+    .principal {
         width: 375px;
     height: 812px;
     background-color: white;
@@ -6,7 +6,7 @@
    
     }
     
-    .base-cabecera {
+    .principal-cabecera {
         height: 319px;
         width: 375px;
         background: rgb(152, 20, 239);
