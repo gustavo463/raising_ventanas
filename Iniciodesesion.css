@@ -113,3 +113,11 @@
     body{
         margin: 0%;
     }
+
+    img{
+        width: 121px;
+        height: 121px;
+        position: relative;
+        top: 57px;
+        left: 127px;
+    }
