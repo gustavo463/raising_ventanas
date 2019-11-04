@@ -119,7 +119,7 @@
     }
     
     .registrate {
-        height: 14px;
+        height: 18px;
         font-family: arial;
         color: #A937F0;
         margin-top: 60px;
@@ -128,7 +128,7 @@
     }
     
     a:link {
-        color: #A937F0;
+        color: rgb(169, 55, 240);
     }
     
     a:hover {
